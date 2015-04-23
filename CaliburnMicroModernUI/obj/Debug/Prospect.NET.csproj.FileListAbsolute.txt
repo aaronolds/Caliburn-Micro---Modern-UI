@@ -1,0 +1,84 @@
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Prospect.NET.exe
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Prospect.NET.pdb
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\FirstFloor.ModernUI.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\FirstFloor.ModernUI.xml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET.csprojResolveAssemblyReference.cache
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\App.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\App.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET_MarkupCompile.cache
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET.g.resources
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET.exe
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET.pdb
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\ShellView.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\Settings\Appearance.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\HomeView.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\SettingsPage.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\ShellView.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\Settings\Appearance.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\HomeView.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\SettingsPage.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Caliburn.Micro.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Caliburn.Micro.Platform.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\System.Windows.Interactivity.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Caliburn.Micro.xml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\Caliburn.Micro.Platform.xml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\de\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\en\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\es\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\it\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Prospect.NET_MarkupCompile.lref
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\ProspectHomeView.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\DashboardHomeView.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\ProspectHomeView.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\DashboardHomeView.g.cs
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\AboutView.baml
+Z:\Source\Workspaces\Prospect.NET Modern UI\Main\Prospect.NET\Prospect.NET\obj\Debug\Views\AboutView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET.exe
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET.pdb
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Prospect.NET.exe
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Prospect.NET.pdb
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Caliburn.Micro.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\FirstFloor.ModernUI.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\System.Windows.Interactivity.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Caliburn.Micro.xml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\FirstFloor.ModernUI.xml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET.csprojResolveAssemblyReference.cache
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\ProspectHomeView.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\DashboardHomeView.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\ShellView.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\AboutView.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\Settings\Appearance.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\HomeView.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\SettingsPage.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\ProspectHomeView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\DashboardHomeView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\ShellView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\AboutView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\Settings\Appearance.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\HomeView.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Views\SettingsPage.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\App.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET_MarkupCompile.cache
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET_MarkupCompile.lref
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\App.baml
+C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\Prospect.NET.g.resources

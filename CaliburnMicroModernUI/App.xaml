@@ -1,0 +1,19 @@
+﻿<Application x:Class="CaliburnMicroModernUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CaliburnMicroModernUI"
+             xmlns:services="clr-namespace:CaliburnMicroModernUI.Services"
+             xmlns:caliburnMicroModernUi="clr-namespace:CaliburnMicroModernUI">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <caliburnMicroModernUi:AppBootstrapper x:Key="AppBootstrapper" />
+                    <services:CaliburnContentLoader x:Key="CaliburnContentLoader" />
+                </ResourceDictionary>
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.xaml" />
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Light.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
