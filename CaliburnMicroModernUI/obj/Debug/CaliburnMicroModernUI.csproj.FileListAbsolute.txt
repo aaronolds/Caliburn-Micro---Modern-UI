@@ -39,3 +39,5 @@ C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\App.baml
 C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\CaliburnMicroModernUI.g.resources
 C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\CaliburnMicroModernUI.exe
 C:\Source\Caliburn Micro - Modern UI\Prospect.NET\obj\Debug\CaliburnMicroModernUI.pdb
+C:\Source\Caliburn Micro - Modern UI\CaliburnMicroModernUI\obj\Debug\CaliburnMicroModernUI.exe
+C:\Source\Caliburn Micro - Modern UI\CaliburnMicroModernUI\obj\Debug\CaliburnMicroModernUI.pdb
